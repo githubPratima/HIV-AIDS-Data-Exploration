@@ -5,10 +5,16 @@ Over the years, it has spread across Africa and has subsequently disseminated th
 To gain a deeper statistical understanding, I am conducting exploratory data analysis on HIV data obtained from UNESCO and WHO.
 
 ##Description of Dataset:
+
 ##There are six CSV files:
 cases.csv: Number of people living with HIV/AIDS.
+
 deaths.csv: Number of deaths due to HIV/AIDS.
+
 living.csv: Number of cases among adults aged 19-45.
+
 coverage.csv: Prevention of mother-to-child transmission estimates.
+
 pediatric.csv: ART (Antiretroviral Therapy) coverage among people living with HIV estimates.
+
 prevention.csv: ART (Antiretroviral Therapy) coverage among children estimates.
