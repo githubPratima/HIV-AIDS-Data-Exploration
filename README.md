@@ -8,11 +8,11 @@ To gain a deeper statistical understanding, I am conducting exploratory data ana
 
 ##There are six CSV files:
 
-cases.csv: Number of people living with HIV/AIDS.
+cases.csv: Number of cases among adults aged 19-45.
 
 deaths.csv: Number of deaths due to HIV/AIDS.
 
-living.csv: Number of cases among adults aged 19-45.
+living.csv:  Number of people living with HIV/AIDS.
 
 coverage.csv: Prevention of mother-to-child transmission estimates.
 
