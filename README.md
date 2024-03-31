@@ -51,7 +51,7 @@ Upon further examination, I explored the percentage distribution of cases across
 
 ![testII](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/a2dcc1d0-0a3b-4005-81f2-cd6b90abd2a6)
 
-![testII](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/830f12d4-1026-4aa1-83cc-7b2e4733d4a7)
+![testII](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/4385357e-4565-497d-80cb-3b9761aefc04)
 
 ![testII](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/62a3c074-bf8e-4c01-a8bc-8a69fcac21b6)
 
