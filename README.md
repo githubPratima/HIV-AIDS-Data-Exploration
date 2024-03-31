@@ -25,6 +25,8 @@ Case data: Let's delve into the initial dataset, which comprises seven columns: 
 ![top_5_countries_cases](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/30a50b7b-8a7b-4fca-b3af-3ab47357fc01)
 Upon further examination, I explored the percentage distribution of cases across different WHO regions.
 ![WHO Region_Cases_Percentage](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/effc8d5f-f82b-43b5-90ff-4632b828f477)
-![test](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/7adffefe-6b5f-4b46-a64e-8a0ef4882d1a)
+![test](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/7adffefe-6b5f-4b46-a64e-8a0ef4882d1a) 
+
+![testII](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/af4cd638-75c9-4329-b25e-64468f5a7886)
 
 
