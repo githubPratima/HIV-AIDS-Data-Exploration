@@ -34,10 +34,13 @@ Upon further examination, I explored the percentage distribution of cases across
 
 <h1>Observation from all above visulizations</h1>
 1.  <strong>Bargraph</strong> illustrates the top 10 countries worldwide with the highest number of HIV cases per some unit of measurement. Eswatini leads with a rate of 105.6, followed by Lesotho and Botswana at 94.7 and 94.4 respectively. Zimbabwe also ranks high with a rate of 72.1.
+
 2.   <strong>Piechart</strong> According to the pie chart, Africa has the highest number of cases, followed by the Americas with the second highest, and then the Western Pacific region
-3.  <strong>Linechart</strong> Trend of cases is slightly decreases in africa and americas trends seems decreading at  till 2010 and it came in constant pattern..cprrect the sentences 
+3.   
+4.  <strong>Linechart</strong> Trend of cases is slightly decreases in africa and americas trends seems decreading at  till 2010 and it came in constant pattern..cprrect the sentences 
     and others seems no change at all.
-4.  <strong>Linechart</strong> For the trend of cases by country, Botswana, Malawi, Namibia, Uganda, and Zimbabwe are experiencing a decrease, while Eswatini, Mozambique, and South Africa are showing an increase.                          
+    
+6.  <strong>Linechart</strong> For the trend of cases by country, Botswana, Malawi, Namibia, Uganda, and Zimbabwe are experiencing a decrease, while Eswatini, Mozambique, and South Africa are showing an increase.                          
 
 
 
