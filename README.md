@@ -22,5 +22,6 @@ prevention.csv: ART (Antiretroviral Therapy) coverage among children estimates.
 
 Case data: Let's delve into the initial dataset, which comprises seven columns: Country, Year, Count, Count_median, Count_min, Count_max, and WHO Region. The Year column contains distinct values spanning 2018, 2010, 2005, and 2000. I focused on the Count_median for analyzing data relationships
 
-https://github.com/githubPratima/HIV-AIDS-Data-Exploration/blob/main/top_5_countries_cases.png
+![top_5_countries_cases](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/30a50b7b-8a7b-4fca-b3af-3ab47357fc01)
+
 
