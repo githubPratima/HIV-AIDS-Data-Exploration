@@ -41,7 +41,7 @@ Upon further examination, I explored the percentage distribution of cases across
 3. <strong>Linechart</strong> Trend of cases is slightly decreases in africa and americas trends seems decreading at  till 2010 and it came in constant pattern..cprrect the sentences 
                               and others seems no change at all.
     
-4.  <strong>Linechart</strong> For the trend of cases by country, Botswana, Malawi, Namibia, Uganda, and Zimbabwe are experiencing a decrease, while Eswatini, Mozambique, and South 
+4.  <strong>Heatmap</strong> For the trend of cases by country, Botswana, Malawi, Namibia, Uganda, and Zimbabwe are experiencing a decrease, while Eswatini, Mozambique, and South 
                               Africa are showing an increase.
 <h1>Death dataset</h1> The "Death" dataset consists of columns including Country, Year, Count, Count_median, Count_min, Count_max, WHO Region, and Percentage. Within this dataset, the Count_min, Count_median, and Count_max columns contain missing values, which have been effectively handled using the fillna method.                      
 
