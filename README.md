@@ -24,6 +24,7 @@ prevention.csv: ART (Antiretroviral Therapy) coverage among children estimates.
 
 ![top_5_countries_cases](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/30a50b7b-8a7b-4fca-b3af-3ab47357fc01) 
 
+![distribution_Of_cases](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/ffae4836-6361-46b5-8b03-d001ecedd7e4)
 
 Upon further examination, I explored the percentage distribution of cases across different WHO regions.
 
