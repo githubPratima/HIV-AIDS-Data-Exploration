@@ -45,6 +45,9 @@ Upon further examination, I explored the percentage distribution of cases across
                               Africa are showing an increase.
 <h1>Death dataset</h1> The "Death" dataset consists of columns including Country, Year, Count, Count_median, Count_min, Count_max, WHO Region, and Percentage. Within this dataset, the Count_min, Count_median, and Count_max columns contain missing values, which have been effectively handled using the fillna method.                      
 
+![Screenshot 2024-03-31 190528](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/ca38019c-987c-44a8-bf95-b354674e46e9)
 
+![testII](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/750aaec1-d668-4aa8-aa6d-ecbc1f3d17d9)
 
+![testII](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/a2dcc1d0-0a3b-4005-81f2-cd6b90abd2a6)
 
