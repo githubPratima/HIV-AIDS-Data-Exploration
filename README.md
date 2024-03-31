@@ -30,5 +30,12 @@ Upon further examination, I explored the percentage distribution of cases across
 
 ![testII](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/af4cd638-75c9-4329-b25e-64468f5a7886)
 
-<h1>Observation from all above visulization</h1>
-1. <strong>Bargraph</strong>illustrates the top 10 countries worldwide with the highest number of HIV cases per some unit of measurement. Eswatini leads with a rate of 105.6, followed by Lesotho and Botswana at 94.7 and 94.4 respectively. Zimbabwe also ranks high with a rate of 72.1.
+<h1>Observation from all above visulizations</h1>
+1.  <strong>Bargraph</strong> illustrates the top 10 countries worldwide with the highest number of HIV cases per some unit of measurement. Eswatini leads with a rate of 105.6, followed by Lesotho and Botswana at 94.7 and 94.4 respectively. Zimbabwe also ranks high with a rate of 72.1.
+2.   <strong>Piechart</strong> 
+
+
+
+
+
+
