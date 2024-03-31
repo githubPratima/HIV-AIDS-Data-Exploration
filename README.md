@@ -20,13 +20,15 @@ pediatric.csv: ART (Antiretroviral Therapy) coverage among people living with HI
 
 prevention.csv: ART (Antiretroviral Therapy) coverage among children estimates.
 
-Case data: Let's delve into the initial dataset, which comprises seven columns: Country, Year, Count, Count_median, Count_min, Count_max, and WHO Region. The Year column contains distinct values spanning 2018, 2010, 2005, and 2000. I focused on the Count_median for analyzing data relationships
+<h1>The Case dataframe</h1>: Let's delve into the initial dataset, which comprises seven columns: Country, Year, Count, Count_median, Count_min, Count_max, and WHO Region. The Year column contains distinct values spanning 2018, 2010, 2005, and 2000. I focused on the Count_median for analyzing data relationships
 
 ![top_5_countries_cases](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/30a50b7b-8a7b-4fca-b3af-3ab47357fc01)
+
 Upon further examination, I explored the percentage distribution of cases across different WHO regions.
 ![WHO Region_Cases_Percentage](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/effc8d5f-f82b-43b5-90ff-4632b828f477)
 ![test](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/7adffefe-6b5f-4b46-a64e-8a0ef4882d1a) 
 
 ![testII](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/af4cd638-75c9-4329-b25e-64468f5a7886)
 
-
+<h1>Observation from all above visulization</h1>
+1. The <h1>Bar Graph</h1>illustrates the top 10 countries worldwide with the highest number of HIV cases per some unit of measurement. Eswatini leads with a rate of 105.6, followed by Lesotho and Botswana at 94.7 and 94.4 respectively. Zimbabwe also ranks high with a rate of 72.1.
