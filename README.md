@@ -6,7 +6,7 @@ To gain a deeper statistical understanding, I am conducting exploratory data ana
 
 <h1>Description of Dataset</h1>
 
-##There are six CSV files:
+##There are six CSV files, I will use the first three for this project:
 
 cases.csv: Number of cases among adults aged 19-45.
 
@@ -24,22 +24,23 @@ prevention.csv: ART (Antiretroviral Therapy) coverage among children estimates.
 
 ![top_5_countries_cases](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/30a50b7b-8a7b-4fca-b3af-3ab47357fc01) 
 
+Next I explore the number of cases across regions defined by WHO. We see that the majority of cases (61%) are in Africa.  This is not surprising, given the poverty rate and lack of education, HIV aids have been more prevalent in African countries. 
+
 ![distribution_Of_cases](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/ffae4836-6361-46b5-8b03-d001ecedd7e4)
 
-Upon further examination, I explored the percentage distribution of cases across different WHO regions.
+Further, I use heatmap to visualize the total numbers of cases over the years by WHO regions. We see that, across all years, Africa has more HIV cases. However, we see that the total number is decreasing, which is good news. But the cases have almost doubled in the Mediterranean region from 2010 to 2018. 
 
 ![testII](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/5bb43ea1-7c25-4d2e-be88-af466fce34e7) 
 
-![testII](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/af4cd638-75c9-4329-b25e-64468f5a7886)
+
 
 <h1>Observation from all above visulizations</h1>
- 1. <strong>Bargraph</strong> Bargraph llustrates the top 10 countries worldwide with the highest number of HIV cases per some unit of measurement. Eswatini leads with a rate of 105.6, 
-                              followed by Lesotho and Botswana at 94.7 and 94.4 respectively. Zimbabwe also ranks high with a rate of 72.1.
+1. <strong>Bargraph</strong>  Illustrates the top 10 countries worldwide with the highest number of HIV cases per thousand. Eswatini leads with a rate of 105.6, followed by Lesotho 
+                             and Botswana at 94.7 and 94.4 respectively. Zimbabwe also ranks high with a rate of 72.1.
 
 2. <strong>Piechart</strong> According to the pie chart, Africa has the highest number of cases, followed by the Americas with the second highest, and then the Western Pacific region
      
-3. <strong>Linechart</strong> Trend of cases is slightly decreases in africa and americas trends seems decreading at  till 2010 and it came in constant pattern..cprrect the sentences 
-                              and others seems no change at all.
+3. <strong>Linechart</strong> We see that, across all the years, Africa has more HIV cases. However, we see that the total number is decreasing, which is good news. But the cases have almost doubled in the Mediterranean region from 2010 to 2018.
     
 4.  <strong>Heatmap</strong> For the trend of cases by country, Botswana, Malawi, Namibia, Uganda, and Zimbabwe are experiencing a decrease, while Eswatini, Mozambique, and South 
                               Africa are showing an increase.
