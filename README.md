@@ -28,9 +28,6 @@ Next I explore the number of cases across regions defined by WHO. We see that th
 
 ![distribution_Of_cases](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/ffae4836-6361-46b5-8b03-d001ecedd7e4)
 
-Further, I use heatmap to visualize the total numbers of cases over the years by WHO regions. We see that, across all years, Africa has more HIV cases. However, we see that the total number is decreasing, which is good news. But the cases have almost doubled in the Mediterranean region from 2010 to 2018. 
-
-![testII](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/5bb43ea1-7c25-4d2e-be88-af466fce34e7) 
 
 
 
@@ -47,15 +44,22 @@ Further, I use heatmap to visualize the total numbers of cases over the years by
 
 ![Screenshot 2024-03-31 190528](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/ca38019c-987c-44a8-bf95-b354674e46e9)
 
+First I create a heatmap to visualize the total numbers of deaths over the years by WHO regions. We see that, across all years, Africa has more HIV deaths. However, we see that the total number is decreasing, which is good news. But the cases have almost doubled in the Mediterranean region from 2010 to 2018. 
+
 ![testII](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/750aaec1-d668-4aa8-aa6d-ecbc1f3d17d9)
+
+![testII](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/5bb43ea1-7c25-4d2e-be88-af466fce34e7) 
+
+
 
 ![testII](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/a2dcc1d0-0a3b-4005-81f2-cd6b90abd2a6)
 
-![testII](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/4385357e-4565-497d-80cb-3b9761aefc04)
+
 
 ![testII](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/62a3c074-bf8e-4c01-a8bc-8a69fcac21b6)
 
 ![testII](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/13c0b29b-b4c2-45d4-96d1-0e74c31e7420)
+ 
  this is for prevention dataset. 
  ![testII](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/f9112a2a-84a9-41bd-9ec0-e87b7c1c3ab8)
 
