@@ -78,7 +78,12 @@ However, the pie charts of number of dosages needed in highest in African region
  ![livingtrend_for_all_WHO_region](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/bec5ccf7-c8eb-4d0e-ab0a-6b374abdf100)
 
  We see that, African region has some 81% of the population living with HIV Aids in the world. 
- 
 
+ <h1>Observation and overall inshights from all above visulizations</h1>
+1.      Africa bears the highest HIV/AIDS burden, notably in Eswatini, while Eastern Mediterranean and Europe are less affected. Europe sees rising cases, while Africa and the Americas show declines, and South-East Asia and Western Pacific have mixed trends.
+
+2.      Africa records the highest deaths, but the trend is decreasing. The Americas, particularly Brazil, have significant fatalities, while Europe, especially Ukraine, witnesses a concerning rise in deaths. The Eastern Mediterranean, like Pakistan, sees an upward trend.
+
+3.      Africa faces the highest demand for pediatric ART, with varied coverage, while Europe generally presents lower pediatric needs but better coverage. South Africa and Nigeria top the list in requirements.
 
 
