@@ -56,5 +56,14 @@ Further, I use heatmap to visualize the total numbers of cases over the years by
 ![testII](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/62a3c074-bf8e-4c01-a8bc-8a69fcac21b6)
 
 ![testII](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/13c0b29b-b4c2-45d4-96d1-0e74c31e7420)
+ this is for prevention dataset. 
+ ![testII](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/f9112a2a-84a9-41bd-9ec0-e87b7c1c3ab8)
 
+ ![prevention](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/861befc4-511b-4394-9bce-6b62d6f2905e)
+table for prevention recevied antiretro..
+![Screenshot 2024-04-01 144433](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/dd4db0d2-3cb3-4bc2-81eb-1ba8238f6148)
 
+for living
+![livingtrend](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/248cfd4a-a02b-44f1-a6c3-52b81f85c0ed)
+
+![livingtrend_for_all_WHO_region](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/bec5ccf7-c8eb-4d0e-ab0a-6b374abdf100)
