@@ -6,17 +6,17 @@ To gain a deeper statistical understanding, I am conducting exploratory data ana
 
 <h1>Description of Dataset</h1>
 Data Sources:  https://www.kaggle.com/datasets/imdevskp/hiv-aids-dataset/code
-##There are six CSV files, I will use the first three for this project:
+##There are six CSV files, I will use the first four for this project:
 
 cases.csv: Number of cases among adults aged 19-45.
 
 deaths.csv: Number of deaths due to HIV/AIDS.
 
+pediatric.csv: ART (Antiretroviral Therapy) coverage among people living with HIV estimates.
+
 living.csv:  Number of people living with HIV/AIDS.
 
 coverage.csv: Prevention of mother-to-child transmission estimates.
-
-pediatric.csv: ART (Antiretroviral Therapy) coverage among people living with HIV estimates.
 
 prevention.csv: ART (Antiretroviral Therapy) coverage among children estimates. 
 
@@ -46,28 +46,39 @@ Next I explore the number of cases across regions defined by WHO. We see that th
 
 First I create a heatmap to visualize the total numbers of deaths over the years by WHO regions. We see that, across all years, Africa has more HIV deaths. However, we see that the total number is decreasing, which is good news. But the cases have almost doubled in the Mediterranean region from 2010 to 2018. 
 
-![testII](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/750aaec1-d668-4aa8-aa6d-ecbc1f3d17d9)
-
 ![testII](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/5bb43ea1-7c25-4d2e-be88-af466fce34e7) 
 
-
+Next I analyze the trends in death by countries (top 11 countries). We see that for almost all countries deaths have been decreasing over the years.  
 
 ![testII](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/a2dcc1d0-0a3b-4005-81f2-cd6b90abd2a6)
 
-
+Next I create maps of Africa with deaths by year. We see that majority of deaths are in South Africa. 
 
 ![testII](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/62a3c074-bf8e-4c01-a8bc-8a69fcac21b6)
 
+Further, the heat map confirms the death by year for African countries. 
+
 ![testII](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/13c0b29b-b4c2-45d4-96d1-0e74c31e7420)
  
- this is for prevention dataset. 
+
+ <h1>Prevention dataset</h1> Next I analyze the prevention dataset. This data set is about Antiretroviral Therapy
+ 
+ ![Screenshot 2024-04-01 144433](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/dd4db0d2-3cb3-4bc2-81eb-1ba8238f6148)
+
+ First I make a bar graph by WHO regions on number of total dosages of  Antiretrovirals. Unsurprisingly, Africa has received the most. 
+ 
  ![testII](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/f9112a2a-84a9-41bd-9ec0-e87b7c1c3ab8)
 
+However, the pie charts of number of dosages needed in highest in African region. 
  ![prevention](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/861befc4-511b-4394-9bce-6b62d6f2905e)
-table for prevention recevied antiretro..
-![Screenshot 2024-04-01 144433](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/dd4db0d2-3cb3-4bc2-81eb-1ba8238f6148)
 
-for living
-![livingtrend](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/248cfd4a-a02b-44f1-a6c3-52b81f85c0ed)
 
-![livingtrend_for_all_WHO_region](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/bec5ccf7-c8eb-4d0e-ab0a-6b374abdf100)
+ <h1>Living dataset</h1> Next I analyze the living dataset. This data is about number of people living with HIV/AIDS.
+
+ ![livingtrend_for_all_WHO_region](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/bec5ccf7-c8eb-4d0e-ab0a-6b374abdf100)
+
+ We see that, African region has some 81% of the population living with HIV Aids in the world. 
+ 
+
+
+
