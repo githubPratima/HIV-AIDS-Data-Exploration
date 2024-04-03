@@ -31,7 +31,7 @@ Next I explore the number of cases across regions defined by WHO. We see that th
 
 
 
-<h1>Observation from all above visulizations</h1>
+<h1>Observation from all two visulizations</h1>
 1. <strong>Bargraph</strong>  Illustrates the top 10 countries worldwide with the highest number of HIV cases per thousand. Eswatini leads with a rate of 105.6, followed by Lesotho 
                              and Botswana at 94.7 and 94.4 respectively. Zimbabwe also ranks high with a rate of 72.1.
 
