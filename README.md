@@ -22,7 +22,7 @@ coverage.csv: Prevention of mother-to-child transmission estimates.
 
 prevention.csv: ART (Antiretroviral Therapy) coverage among children estimates. 
 
-<h1>Case dataframe:</h1> Let's delve into the initial dataset, which comprises seven columns: Country, Year, Count, Count_median, Count_min, Count_max, and WHO Region. The Year column contains distinct values spanning 2018, 2010, 2005, and 2000. I focused on the Count_median for analyzing data relationships
+<h1>Case dataset:</h1> Let's delve into the initial dataset, which comprises seven columns: Country, Year, Count, Count_median, Count_min, Count_max, and WHO Region. The Year column contains distinct values spanning 2018, 2010, 2005, and 2000. I focused on the Count_median for analyzing data relationships
 
 ![top_5_countries_cases](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/30a50b7b-8a7b-4fca-b3af-3ab47357fc01) 
 
@@ -70,7 +70,7 @@ Further, the heat map confirms the death by year for African countries.
  
  ![testII](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/f9112a2a-84a9-41bd-9ec0-e87b7c1c3ab8)
 
-However, the pie charts of number of dosages needed in highest in African region. 
+ However, the pie charts of number of dosages needed in highest in African region. 
  ![prevention](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/861befc4-511b-4394-9bce-6b62d6f2905e)
 
 
@@ -84,7 +84,7 @@ However, the pie charts of number of dosages needed in highest in African region
 
 1.  Africa bears the highest HIV/AIDS burden, notably in Eswatini, while Eastern Mediterranean and Europe are less affected. Europe sees rising cases, while Africa and the Americas show declines, and South-East Asia and Western Pacific have mixed trends.
 2.  Africa records the highest deaths, but the trend is decreasing. The Americas, particularly Brazil, have significant fatalities, while Europe, especially Ukraine, witnesses a concerning rise in deaths. The Eastern Mediterranean, like Pakistan, sees an upward trend.
-3.    Africa faces the highest demand for pediatric ART, with varied coverage, while Europe generally presents lower pediatric needs but better coverage. South Africa and Nigeria top the list in requirements. 
+3.  Africa faces the highest demand for pediatric ART, with varied coverage, while Europe generally presents lower pediatric needs but better coverage. South Africa and Nigeria top the list in requirements. 
 
 **full code in Py File**
 
