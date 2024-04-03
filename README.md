@@ -5,8 +5,10 @@ Over the years, it has spread across Africa and has subsequently disseminated th
 To gain a deeper statistical understanding, I am conducting exploratory data analysis on HIV data obtained from UNESCO and WHO.
 
 <h1>Description of Dataset</h1>
-Data Sources:  https://www.kaggle.com/datasets/imdevskp/hiv-aids-dataset/code
-##There are six CSV files, I will use the first four for this project:
+
+**Data Sources:**  https://www.kaggle.com/datasets/imdevskp/hiv-aids-dataset/code
+
+**There are six CSV files, I will use the first four for this project:**
 
 cases.csv: Number of cases among adults aged 19-45.
 
@@ -20,7 +22,7 @@ coverage.csv: Prevention of mother-to-child transmission estimates.
 
 prevention.csv: ART (Antiretroviral Therapy) coverage among children estimates. 
 
-<h1>Case dataframe</h1>: Let's delve into the initial dataset, which comprises seven columns: Country, Year, Count, Count_median, Count_min, Count_max, and WHO Region. The Year column contains distinct values spanning 2018, 2010, 2005, and 2000. I focused on the Count_median for analyzing data relationships
+<h1>Case dataframe:</h1> Let's delve into the initial dataset, which comprises seven columns: Country, Year, Count, Count_median, Count_min, Count_max, and WHO Region. The Year column contains distinct values spanning 2018, 2010, 2005, and 2000. I focused on the Count_median for analyzing data relationships
 
 ![top_5_countries_cases](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/30a50b7b-8a7b-4fca-b3af-3ab47357fc01) 
 
@@ -84,5 +86,5 @@ However, the pie charts of number of dosages needed in highest in African region
 2.  Africa records the highest deaths, but the trend is decreasing. The Americas, particularly Brazil, have significant fatalities, while Europe, especially Ukraine, witnesses a concerning rise in deaths. The Eastern Mediterranean, like Pakistan, sees an upward trend.
 3.    Africa faces the highest demand for pediatric ART, with varied coverage, while Europe generally presents lower pediatric needs but better coverage. South Africa and Nigeria top the list in requirements. 
 
-
+**full code in Py File**
 
