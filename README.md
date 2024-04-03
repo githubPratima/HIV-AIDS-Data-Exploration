@@ -80,7 +80,7 @@ Further, the heat map confirms the death by year for African countries.
 
  We see that, African region has some 81% of the population living with HIV Aids in the world. 
 
- <h1>Observation and overall inshights from all above visulizations</h1>
+ <h1>Observation and overall insights from all above visulizations</h1>
 
 1.  Africa bears the highest HIV/AIDS burden, notably in Eswatini, while Eastern Mediterranean and Europe are less affected. Europe sees rising cases, while Africa and the Americas show declines, and South-East Asia and Western Pacific have mixed trends.
 2.  Africa records the highest deaths, but the trend is decreasing. The Americas, particularly Brazil, have significant fatalities, while Europe, especially Ukraine, witnesses a concerning rise in deaths. The Eastern Mediterranean, like Pakistan, sees an upward trend.
