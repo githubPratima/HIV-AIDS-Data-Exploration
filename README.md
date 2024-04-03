@@ -38,8 +38,7 @@ Next I explore the number of cases across regions defined by WHO. We see that th
 2. <strong>Piechart</strong> According to the pie chart, Africa has the highest number of cases, followed by the Americas with the second highest, and then the Western Pacific region
      
    
-3.  <strong>Heatmap</strong> We see that, across all the years, Africa has more HIV cases. However, we see that the total number is decreasing, which is good news. But the cases have almost doubled in the Mediterranean region from 2010 to 2018.
-    
+
 <h1>Death dataset</h1> The "Death" dataset consists of columns including Country, Year, Count, Count_median, Count_min, Count_max, WHO Region, and Percentage. Within this dataset, the Count_min, Count_median, and Count_max columns contain missing values, which have been effectively handled using the fillna method.                      
 
 ![Screenshot 2024-03-31 190528](https://github.com/githubPratima/HIV-AIDS-Data-Exploration/assets/98135375/ca38019c-987c-44a8-bf95-b354674e46e9)
